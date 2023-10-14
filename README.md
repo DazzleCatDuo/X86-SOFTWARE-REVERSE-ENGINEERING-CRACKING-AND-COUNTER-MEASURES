@@ -1,0 +1,4 @@
+# X86-SOFTWARE-REVERSE-ENGINEERING-CRACKING-AND-COUNTER-MEASURES
+companion to our book of the same name, ISBN: 9781394199884
+
+Welcome! 
