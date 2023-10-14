@@ -1,0 +1,6 @@
+There are two types of environments needed for the labs. Windows and Linux.
+
+We reccomomend performing all labs in a virtual machine, while none of the code provided in the labs is intentionally malicious. It is always best practice to do security testing, and learning in an isolated enviornment.
+
+Windows - Any modern version of Windows
+Linux - the labs were specifically tested in Ubuntu, but you're welcome to try in other distros. 
