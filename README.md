@@ -1,5 +1,6 @@
 # X86-SOFTWARE-REVERSE-ENGINEERING-CRACKING-AND-COUNTER-MEASURES
-companion to the book of the same name, ISBN: 9781394199884
+This is the companion github to the book: x86 Software Reverse Engineering Cracking and Countermeasures (ISBN: 9781394199884)
+Written by Stephanie Domas and Christopher Domas
 
 Welcome!
 
